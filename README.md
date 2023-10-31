@@ -100,13 +100,14 @@ This project involves predicting house prices using the Ames Housing dataset. It
 
 ```
 - Project/
-    - Preprocessing.py
-    - Training.py
+    - Pre-Processing & EDA.ipynb
+    - Training & Testing Model.ipynb
     - DATA/
         - Ames_Housing_Data.csv
     - Model/
         - 0-alpha 0-l1_ratio elasticnet
     - README.md
+    - .gitignore
 ```
 
 ## Getting Started
